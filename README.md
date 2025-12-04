@@ -1,60 +1,89 @@
-<h3 align="left">Languages and Tools:</h3>
+<h2>🚀 Languages & Tools</h2>
 
-<p align="left">
+<!-- ============================== -->
+<!-- Programming Languages -->
+<!-- ============================== -->
+<h3>🧩 Programming Languages</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+</p>
 
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+<!-- ============================== -->
+<!-- Backend & Frameworks -->
+<!-- ============================== -->
+<h3>🛠️ Backend & Frameworks</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+</p>
 
-  <!-- Backend Frameworks -->
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40" alt="FastAPI"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+<!-- ============================== -->
+<!-- Databases -->
+<!-- ============================== -->
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
 
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-dynamodb.svg" width="40" height="40" alt="DynamoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="40" height="40" alt="Neo4j"/>
+<!-- ============================== -->
+<!-- Cloud & DevOps -->
+<!-- ============================== -->
+<h3>☁️ Cloud & DevOps</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"/>
+</p>
 
-  <!-- Messaging / Architecture -->
-  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="40" height="40" alt="Redis"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/kafka-icon.svg" width="40" height="40" alt="Pub/Sub"/>
+<!-- ============================== -->
+<!-- Machine Learning & Data -->
+<!-- ============================== -->
+<h3>🤖 Machine Learning & Data</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+</p>
 
-  <!-- Cloud & DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/>
+<!-- ============================== -->
+<!-- Semantic Search & LLM Tools -->
+<!-- (custom icons due to no devicon support) -->
+<!-- ============================== -->
+<h3>🔍 Semantic Search & LLM</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/pinecone-io/pinecone-logo/main/logo.svg" width="40" alt="Pinecone"/>
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="40" alt="LangChain"/>
+</p>
 
-  <!-- Machine Learning & NLP -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/ffmpeg.svg" width="40" height="40" alt="ffmpeg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/>
+<!-- ============================== -->
+<!-- Testing -->
+<!-- ============================== -->
+<h3>🧪 Testing & QA</h3>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/puppeteer/puppeteer/main/website/static/img/pptr-logo.svg" width="40"/>
+</p>
 
-  <!-- LLM & Semantic Search -->
-  <img src="https://cdn.worldvectorlogo.com/logos/pinecone-1.svg" width="40" height="40" alt="Pinecone"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" width="40" height="40" alt="LangChain"/>
+<!-- ============================== -->
+<!-- Observability -->
+<!-- ============================== -->
+<h3>📈 Observability</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" width="40"/>
+</p>
 
-  <!-- Testing -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" height="40" alt="Selenium"/>
-  <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg" width="40" height="40" alt="Puppeteer"/>
-
-  <!-- Authentication -->
-  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40" height="40" alt="JWT"/>
-
-  <!-- Observability -->
-  <img src="https://cdn.worldvectorlogo.com/logos/sentry-1.svg" width="40" height="40" alt="Sentry"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-cloudwatch.svg" width="40" height="40" alt="CloudWatch"/>
-
-  <!-- Systems, XR, VR, 3D -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/apple-ar-kit.svg" width="40" height="40" alt="ARKit"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="Netcode (C++ placeholder)"/>
-
+<!-- ============================== -->
+<!-- XR, VR, 3D -->
+<!-- ============================== -->
+<h3>🎮 XR, VR & 3D Systems</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
