@@ -1,3 +1,10 @@
+<h2> Hi there!</h2>
+<ol>
+  <li>Find my ML/AI work here: https://scholar.google.com/citations?user=32OtNTcAAAAJ&hl=en </li>
+  <li> Other works: https://namanbhoj.netlify.app/</li>
+</ol>
+
+
 <h2>Built and contributed</h2>
 <ol>
 <li> <a href ="https://www.foryourresearch.com/" >ForyourResearch</a></li>
